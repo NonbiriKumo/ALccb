@@ -6193,6 +6193,9 @@ DOMAIN-SUFFIX,ypncdn.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
 
+# Steam
+DOMAIN-SUFFIX,steam-chat.com
+
 # Spark
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,firebaseio.com
