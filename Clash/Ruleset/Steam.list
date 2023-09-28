@@ -1,5 +1,4 @@
 # 内容：Steam直连
 # 数量：3条
-DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
